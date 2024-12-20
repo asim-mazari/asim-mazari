@@ -1,4 +1,4 @@
-# 🌟 Full Stack Web Developer
+# 🌟 Full-Stack Developer
 
 ### Hi there! I'm a passionate **Full Stack Web Developer** with a knack for building robust and scalable web applications. I specialize in both frontend and backend technologies, delivering top-tier services to clients and contributing to exciting projects.
 
